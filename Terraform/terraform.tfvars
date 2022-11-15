@@ -1,6 +1,6 @@
 # AWS configuration
-aws_access_key = "AKIARAFX74L4OLJLLG2C"
-aws_secret_key = "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"
+aws_access_key = "access_key"
+aws_secret_key = "secret_key"
 aws_region     = "eu-west-1"
 
 # Network
